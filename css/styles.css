@@ -1,0 +1,39 @@
+h1 {
+    background-color:khaki;
+    color :rgb(128,0,0);
+    padding :10px 20px 10px 70px ;
+    margin : 20px 500px 20px 500px ;
+
+}
+nav ul li {
+    padding :10px 0 10px 0 ;
+
+}
+body {
+    background-color:rgb(156, 223, 203);
+}
+p {
+    color:maroon;
+font-weight: bold;
+padding :10px 20px 10px 20px ;
+
+
+}
+ a {
+    
+     color:black;
+     display: block;
+     font-weight: bold;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+footer {
+    border-style: double;
+    border-color:rgba(24, 3, 13, 0.61);
+    text-align: center;
+    /*padding :10px 20px 10px 20px ;
+    margin : 50px 100px 50px 100px ;*/
+
+}
