@@ -7,10 +7,15 @@ var orderImage ="";
 //process
 /*alert("Welcom To Jordan-Lovers");
 alert("I Hope You Feel Good!");
-confirm ("Are you from Jordan?");*/
+confirm ("Are you from Jordan?");
+ https://raghadalquran.github.io/Countries/
+ */
 
 while(userOrder !== "petra" && userOrder !== "sea")
 {
+    alert("Welcom To Jordan-Lovers");
+    confirm ("Are you from Jordan?");
+    alert("I Hope You Feel Good!");
 userOrder = prompt("You want to see petra or sea:");
 }
 var numberOfImages;
