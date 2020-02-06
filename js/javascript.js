@@ -11,10 +11,10 @@ alert("Welcom To Jordan-Lovers");
 alert("I Hope You Feel Good!");
 prompt ("Where are you from ?");
 prompt ("You want to see petra or sea:");
-userOrder = prompt("please enter house or hotel");
+userOrder = prompt("please enter petra or sea");
 }
 var numberOfImages;
-numberOfImages = prompt("What is the number of hotel or house ?");
+numberOfImages = prompt("What is the number of petra or sea ?");
 
 for (var i=0; i< numberOfImages ;i++)
 {
