@@ -15,7 +15,6 @@ while(userOrder !== "petra" && userOrder !== "sea")
 {
     alert("Welcom To Jordan-Lovers");
     confirm("Are you from Jordan?");
-    alert("I Hope You Feel Good!");
 userOrder = prompt("You want to see petra or sea:");
 }
 var numberOfImages;
