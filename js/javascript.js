@@ -5,9 +5,9 @@ var showOrder = function (){
 var userOrder;
 var orderImage ="";
 //process
-alert("Welcom To Jordan-Lovers");
+/*alert("Welcom To Jordan-Lovers");
 alert("I Hope You Feel Good!");
-confirm ("Are you from Jordan?");
+confirm ("Are you from Jordan?");*/
 
 while(userOrder !== "petra" && userOrder !== "sea")
 {
