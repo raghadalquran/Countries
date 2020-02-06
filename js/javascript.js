@@ -19,10 +19,10 @@ numberOfImages = prompt("What is the number of petra or sea ?");
 for (var i=0; i< numberOfImages ;i++)
 {
 if(userOrder === "petra" ) {
-    orderImage = orderImage + '<img src="images/Jordan.png">';
+    orderImage = orderImage + '<img src="images/Jordan.jpg">';
 }
 else if (userOrder === "sea") {
-    orderImage = orderImage + '<img src="images/sea.png">';
+    orderImage = orderImage + '<img src="images/sea.jpg">';
 }
 }
 //output
