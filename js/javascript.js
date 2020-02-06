@@ -5,13 +5,13 @@ var showOrder = function (){
 var userOrder;
 var orderImage ="";
 //process
-while(userOrder !== "petra" && userOrder !== "sea")
-{
 alert("Welcom To Jordan-Lovers");
 alert("I Hope You Feel Good!");
-prompt ("Where are you from ?");
-prompt ("You want to see petra or sea:");
-userOrder = prompt("please enter petra or sea");
+confirm ("Are you from Jordan?");
+
+while(userOrder !== "petra" && userOrder !== "sea")
+{
+userOrder = prompt("You want to see petra or sea:");
 }
 var numberOfImages;
 numberOfImages = prompt("What is the number of petra or sea ?");
